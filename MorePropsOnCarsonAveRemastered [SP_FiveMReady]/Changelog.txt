@@ -1,9 +1,0 @@
-Changelog:
-
-v1.1:
-
-- Increased the LOD distance on the props from 200 to 2500
-
-v1.0:
-
-- Initial Release
